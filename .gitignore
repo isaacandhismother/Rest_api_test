@@ -1,0 +1,4 @@
+.idea
+.venv
+.market/migrations
+.Rest_api_test/migrations
